@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+tensorflow>=2.0
+opencv-python
+flask
+eventlet
+python-socketio
+Pillow
