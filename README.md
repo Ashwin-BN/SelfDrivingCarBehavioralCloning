@@ -41,7 +41,7 @@ The trained model integrates with the Udacity Self-Driving Car Simulator to auto
 
 ## Demo Video
 
-[SelfDrivingCarBehavioralCloning Demo](https://youtu.be/Zfg080-YTvY)
+[![SelfDrivingCarBehavioralCloning Demo](https://img.youtube.com/vi/Zfg080-YTvY/maxresdefault.jpg)](https://youtu.be/Zfg080-YTvY)
 
 ---
 
@@ -117,7 +117,7 @@ The trained model integrates with the Udacity Self-Driving Car Simulator to auto
 
 ## Data Collection and Simulator Testing
 
-For detailed instructions on **how to collect your own driving data using the Udacity Simulator** and **how to test your trained model**, please see [DATA\_COLLECTION.md](./DATA_COLLECTION.md).
+For detailed instructions on **how to collect your own driving data using the Udacity Simulator** and **how to test your trained model**, please see [DATA\_COLLECTION.md](./DATACOLLECTION.md).
 
 ---
 
